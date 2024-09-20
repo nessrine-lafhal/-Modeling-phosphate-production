@@ -46,3 +46,8 @@ The model successfully predicts phosphate prices and production quantities, with
 
 ## Conclusion
 PHOS-PREDECT-AI provides a robust and scalable solution for predicting market behaviors in the phosphate industry, offering valuable insights for stakeholders to make informed decisions.
+
+## test
+
+![Description de l'image](URL-de-l-image)
+
