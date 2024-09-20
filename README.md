@@ -14,35 +14,35 @@ The phosphate industry faces various challenges, including price fluctuations an
 ### Price Prediction Dataset
 The dataset used for price prediction contains various features influencing the global phosphate price. Key variables include market trends, production levels, and demand forecasts.
 
-Phosphate Quantity Dataset
+### Phosphate Quantity Dataset
 This dataset includes information about phosphate production and export volumes, allowing for predictions on future production quantities based on historical data.
 
 ## Data Preprocessing
-Data Cleaning
+### Data Cleaning
 The data was cleaned by identifying and handling missing values, standardizing text fields, and ensuring consistency across datasets.
 
-Data Transformation
+### Data Transformation
 Once cleaned, the data was transformed for model input, involving feature scaling and splitting the dataset into training and testing sets.
 
-Model Implementation
+## Model Implementation
 Random Forest Regression
 A Random Forest Regression model was implemented in Python using the scikit-learn library to predict the price and quantity of phosphate. This method was chosen for its high accuracy and robustness in handling complex datasets.
 
-Model Evaluation
+## Model Evaluation
 The model was evaluated using R² scores and other performance metrics, showing promising results in predicting phosphate industry trends.
 
-Frontend Design
-User Interface
+## Frontend Design
+### User Interface
 The project's user interface was designed using Bootstrap for responsive design, with custom CSS for aesthetic improvements. It features:
 
 Home page for dataset selection
 Prediction forms for entering model inputs
 Results page displaying predictions with an option to download detailed reports
-Backend Setup
+### Backend Setup
 The backend was developed using Flask, handling data storage, model execution, and report generation through ReportLab.
 
-Results
+## Results
 The model successfully predicts phosphate prices and production quantities, with a user-friendly interface for data input and result visualization.
 
-Conclusion
+## Conclusion
 PHOS-PREDECT-AI provides a robust and scalable solution for predicting market behaviors in the phosphate industry, offering valuable insights for stakeholders to make informed decisions.
