@@ -49,5 +49,15 @@ PHOS-PREDECT-AI provides a robust and scalable solution for predicting market be
 
 ## test
 
-![Description de l'image](URL-de-l-image)
+![test1](https://github.com/nessrine-lafhal/-Modeling-phosphate-production/blob/master/pic1.png)
+![test1](https://github.com/nessrine-lafhal/-Modeling-phosphate-production/blob/master/pic2.png)
+![test1](https://github.com/nessrine-lafhal/-Modeling-phosphate-production/blob/master/pic3.png)
+
+![test1](https://github.com/nessrine-lafhal/-Modeling-phosphate-production/blob/master/pic4.png)
+![test1](https://github.com/nessrine-lafhal/-Modeling-phosphate-production/blob/master/pic5.png)
+![test1](https://github.com/nessrine-lafhal/-Modeling-phosphate-production/blob/master/pic6.png)
+![test1](https://github.com/nessrine-lafhal/-Modeling-phosphate-production/blob/master/pic7.png)
+![test1](https://github.com/nessrine-lafhal/-Modeling-phosphate-production/blob/master/pic8.png)
+![test1](https://github.com/nessrine-lafhal/-Modeling-phosphate-production/blob/master/pic9.png)
+
 
